@@ -1,6 +1,6 @@
 # .github/workflows/main.yml
 
-name: Python application test
+name: watchdog
 
 on:
   pull_request:
